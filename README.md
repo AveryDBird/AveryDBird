@@ -13,8 +13,10 @@ Currently a Tier 2 IT Technician, my recent work spans from building custom AI a
 <div align="center">
   <p><i>Actively seeking Summer 2027 internships in systems management, IT operations, or AI research.</i></p>
   <p>
-    <a href="www.linkedin.com/in/avery-bird-65a38137b">LinkedIn</a> &nbsp;·&nbsp; 
+    <p>
+    <a href="https://www.linkedin.com/in/avery-bird-65a38137b">LinkedIn</a> &nbsp;·&nbsp; 
     <a href="mailto:averybird.student@gmail.com">Email</a> &nbsp;·&nbsp; 
-    <a href="averybird.com">Portfolio</a>
+    <a href="https://averybird.com">Portfolio</a>
+  </p>
   </p>
 </div>
